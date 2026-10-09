@@ -25,6 +25,6 @@ designcraft.cli      # headless CLI / MCP server
 ## Setup
 
 1. Register the name: `snapcraft register designcraft`.
-2. Export store credentials and save them as the `SNAPCRAFT_STORE_CREDENTIALS`
+2. Export store credentials and save them as the `STORE_LOGIN`
    repository secret:
    `snapcraft export-login --snaps designcraft --channels edge,candidate,beta,stable --acls package_access,package_push,package_release -`
