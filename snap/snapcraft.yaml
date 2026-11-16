@@ -1,6 +1,6 @@
 name: designcraft
 title: DesignCraft
-base: core24
+base: core26
 version: '0.20.1'
 summary: Page layout for magazines, books and print
 description: |
