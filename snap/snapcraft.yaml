@@ -1,7 +1,7 @@
 name: designcraft
 title: DesignCraft
 base: core26
-version: '0.20.1'
+version: '0.21.1'
 summary: Page layout for magazines, books and print
 description: |
   DesignCraft is an open-source, native page layout and desktop publishing application for magazines, books and print documents.
